@@ -1,0 +1,7 @@
+1) If faster io is not used it will give TLE for some cases  (map used)
+
+2) If faster io is used it give correct answer (map used)
+
+3) If faster io is not used it will give TLE for some cases  (unordered_map used)
+
+4) If faster io is used it will give TLE for some cases  (unordered_map used)
